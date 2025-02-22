@@ -11,3 +11,7 @@ def getAge():
 def getPet():
     pet = input("What is your pet's name? ")
     return pet
+
+def getHobby():
+    hobby = input("What is your hobby? ")
+    return hobby
