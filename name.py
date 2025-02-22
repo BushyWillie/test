@@ -1,4 +1,4 @@
-from test import getAge, getPet, getHobby
+from functions import getAge, getPet, getHobby
 name = input("What is your name?\n")
 age = getAge()
 pet = getPet()
