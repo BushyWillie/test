@@ -13,5 +13,5 @@ def getPet():
     return pet
 
 def getHobby():
-    hobby = input("What is your hobby? ")
+    hobby = input("What is your hobby, recently? ")
     return hobby
