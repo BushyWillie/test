@@ -7,3 +7,7 @@ def getAge():
         year = 2024
     age = year - birth_year
     return age
+
+def getPet():
+    pet = input("What is your pet's name? ")
+    return pet
