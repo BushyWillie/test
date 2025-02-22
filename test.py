@@ -7,3 +7,7 @@ def getAge():
         year = 2024
     age = year - birth_year
     return age
+
+def getHobby():
+    hobby = input("What is your hobby? ")
+    return hobby

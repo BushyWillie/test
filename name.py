@@ -1,5 +1,5 @@
-from test import getAge
+from test import getAge, getHobby
 name = input("What is your name?\n")
 age = getAge()
-print(f"You are {name} and you are {age} years old")
-
+hobby = getHobby()
+print(f"You are {name}, you are {age} years old, and your hobby is {hobby}")
