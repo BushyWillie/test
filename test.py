@@ -13,5 +13,6 @@ def getPet():
     return pet
 
 def getHobby():
-    hobby = input("What is your hobby, lastweek? ")
+    hobby = input("What is your hobby, trying to cause an error? ")
+    test = "added some changes"
     return hobby
