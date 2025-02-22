@@ -13,6 +13,6 @@ def getPet():
     return pet
 
 def getHobby():
-    hobby = input("What is your hobby again? ")
+    hobby = input("What is your hobby? ")
     number = 1+1
     return hobby
